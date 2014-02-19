@@ -1,0 +1,10 @@
+{
+	"cameraParams": "ar/data/camera_para.dat",
+	"marker": "ar/data/heart.pat",
+	"dae3DModel": "ar/3D/paola.dae",
+	"dae3DModelScale": "20",
+	"dae3DModelRotateX": "90",
+	"audio": "ar/audio/eres.mp3",
+	"playAudio": "true",
+	"rotateSpeedDirection": "-0.5"
+}
