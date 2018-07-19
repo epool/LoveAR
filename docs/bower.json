@@ -1,0 +1,35 @@
+{
+  "name": "epool.github.io",
+  "version": "0.0.0",
+  "homepage": "pao.eduardopool.mx",
+  "authors": [
+    "Eduardo Pool <eduardo_00797@hotmail.com>"
+  ],
+  "description": "Página de mi novia Paola y mía",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "paola",
+    "pao",
+    "nosotros",
+    "novios",
+    "meses"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.2.15",
+    "bootstrap": "~3.1.1",
+    "moment": "~2.8.3"
+  }
+}
